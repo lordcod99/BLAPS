@@ -45,6 +45,10 @@ public class users {
         return user_name;
     }
 
+    public String getPass_word(){
+        return pass_word;
+    }
+
 
     //    private
 }
